@@ -84,7 +84,7 @@ Your application should now be running at http://127.0.0.1:8000 🎉
 uploaded sql file for uploading
 
 🔄 How to Use
-
+ (For login kindly register your email and password  http://127.0.0.1:8000/register through this link)
 1️⃣ Upload Employee List (CSV Format)
 
 Navigate to http://127.0.0.1:8000/employees
